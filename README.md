@@ -1,15 +1,8 @@
 
-# Python Turtle Random Walk
+# Python Turtle Race
 
-This project uses Python's built-in turtle module to simulate a random walk. A random walk is a mathematical object, known as a stochastic or random process, that describes a path consisting of a succession of random steps.
+This project uses Python's built-in turtle module to simulate a turtle race. A random walk is a mathematical object, known as a stochastic or random process, that describes a path consisting of a succession of race steps.
 
-### Images
-
-https://github.com/SyedHanifShah/python_random_walk/blob/master/images/1.png
-
-https://github.com/SyedHanifShah/python_random_walk/blob/master/images/2.png
-
-https://github.com/SyedHanifShah/python_random_walk/blob/master/images/3.png
 
 
 ### Getting Started
@@ -24,7 +17,7 @@ The turtle module comes pre-installed with Python so no additional installation 
 ### Installation
 1. Clone the repository
        
-        git clone https://github.com/SyedHanifShah/python_random_walk.git
+        git clone https://github.com/SyedHanifShah/turtle_race_python.git
 
 
 2. Navigate to the project directory
